@@ -6,7 +6,7 @@
 
 
 - 💬 Ask me about my Passions, Interests and the amazing world of Electronics
-- 📫 Reach me at: arjunghosh.irpe.caluniv@gmail.com
+- 📫 Reach me at: arjunghosh@ieee.org
 
 -->
 
