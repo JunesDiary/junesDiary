@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Maachine Learning Models using Keras
+- 🔭 I’m currently working on Machine Learning Models using Keras
 - 🌱 I’m currently learning Electronics and Communication at University of Calcutta
 
 
